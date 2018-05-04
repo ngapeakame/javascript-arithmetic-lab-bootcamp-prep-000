@@ -3,8 +3,14 @@ var b=5
 function add(a, b){
   return a+b
 }
-subtract(a,b)
-multiply(a,b)
-divide(a, b)
-inc(a)
+function subtract(a,b){
+  return a-b
+}
+function multiply(a,b){
+  return a*b
+}
+function divide(a, b){
+  return a/b
+}
+function inc(a)
 dec(a)
